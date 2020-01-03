@@ -1,0 +1,53 @@
+body {
+    font-family:  trebuchet ms, verdana, sans-serif;
+    /* font-family: Arial, sans-serif; */
+    color: #000;
+    background-color: #fff;
+    line-height: 1.3em;
+    -webkit-text-size-adjust: auto;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: #1111cc;
+}
+a:visited {
+    color: #1111cc;
+}
+
+.container {
+    width: 800px;
+    min-height: 1200px;
+    max-height: 999999px; /* prevents font boosting */
+    margin: 0 auto; /* top and bottom, right and left */
+    text-align: left; /* top, right, bottom, left */
+    color: #000;
+    background: #fff;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+}
+
+section#profile div.profile_left{
+    width: 55%;
+    float:left;
+    padding-left: 20px;
+}
+
+section#profile div.profile_left name{
+    font-size: 30px;
+}
+
+section#profile div.profile_right{
+    width: 40%;
+    float: left;
+    text-align:center;
+}
+
+section#profile div.profile_bottom{
+    clear: left;
+}
