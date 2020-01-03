@@ -1,1 +1,0 @@
-# ohashi3dv.github.io
