@@ -35,7 +35,7 @@ a:visited {
 section#profile div.profile_left{
     width: 55%;
     float:left;
-    padding-left: 20px;
+    padding-left: 5%;
 }
 
 section#profile div.profile_left name{
@@ -69,11 +69,6 @@ section#profile div.profile_bottom{
   .container{
     width:95%;
     font-size: 0.9em;
-  }
-  div.profile_right{
-      /* position: relative; */
-      /* margin: auto; */
-      /* float: none; */
   }
   .authors td {
     float: none;
