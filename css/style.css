@@ -36,7 +36,7 @@ a:hover {
 section#profile div.profile_left{
     width: 55%;
     float:left;
-    padding-left: 5%;
+    padding-right: 5%;
 }
 
 section#profile div.profile_left name{
