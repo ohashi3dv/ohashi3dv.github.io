@@ -1,5 +1,5 @@
 body {
-    font-family:  trebuchet ms, verdana, sans-serif;
+    font-family: verdana, sans-serif;
     /* font-family: Arial, sans-serif; */
     color: #000;
     background-color: #fff;
@@ -37,6 +37,7 @@ section#profile div.profile_left{
     width: 55%;
     float:left;
     padding-right: 5%;
+    /* padding-left: 5%; */
 }
 
 section#profile div.profile_left name{
